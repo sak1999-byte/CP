@@ -1,5 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    cout<<"Hello Mac";
+int main()
+{
+    cout << "Hello Mac";
+    coun << "Done"
 }
