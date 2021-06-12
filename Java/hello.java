@@ -3,7 +3,8 @@ public class hello {
         System.out.println("Hello");
         int a = 10;
         int b = 20;
-        System.out.println(a + b);
+       System.out.println("This is Vim");
+       	System.out.println(a + b);
         System.out.println("YES");
     }
 }
