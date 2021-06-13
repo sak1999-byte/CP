@@ -4,5 +4,6 @@ This is a repo for Java and CPP problem
 2. Problems From Hacker Earth
 3. Problems From Coding ninjas
 
-   i.Java Data strcuture and algorithm
-   ii. Competitive programming
+    i.Java Data strcuture and algorithm
+  
+    ii. Competitive programming
