@@ -1,4 +1,4 @@
-This is a repo for Java and CPP problem
+This is a repo for Problems in java and C++
 
 1. Problems From GFG
 2. Problems From Hacker Earth
