@@ -4,4 +4,4 @@ Course Included :
 
   i).Competitive programming
  
- iii).CPP Basics
+ ii).CPP Basics
