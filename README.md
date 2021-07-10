@@ -3,9 +3,5 @@ Course Included :
 
 
   i).Competitive programming
-
-
-  ii). Data structure in java
-
  
  iii).CPP Basics
